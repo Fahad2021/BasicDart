@@ -1,0 +1,7 @@
+Types Of Condition
+You can use following conditions to control the flow of your program.
+
+If Condition
+If-Else Condition
+If-Else-If Condition
+Switch case
